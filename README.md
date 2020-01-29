@@ -6,6 +6,6 @@ After generating the experiment file. Use the cr_calculation.py file, to calcula
 
 Sample: python <name of file:.py> '</directory path/:str>' <number of session:int>
   
-When you start the experimental group cr calculation, a "CR-CS_US" folder will be created inside the relative group rirectory.
+When you start the experimental group cr calculation, a "CR-CS_US" folder will be created inside the relative group directory.
 Inside this folder the file "fr_max_mice.txt" will be generated.
 Copy this file into the experimental group folder before launching the experimental group CR calculation file "cr_calculation_SpG.py"
