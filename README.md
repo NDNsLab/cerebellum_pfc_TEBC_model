@@ -9,3 +9,7 @@ Sample: python <name of file:.py> '</directory path/:str>' <number of session:in
 When you start the experimental group cr calculation, a "CR-CS_US" folder will be created inside the relative group directory.
 Inside this folder the file "fr_max_mice.txt" will be generated.
 Copy this file into the experimental group folder before launching the experimental group CR calculation file "cr_calculation_SpG.py"
+
+Use the "utility_plot-raster.py" file to make chart of activity for areas: Inferior Olivary Nucleus, Punkinije Cells, Granular Cells, M1 and PFC.  
+
+Sample: python <name of file:.py> '</directory path/:str>' <number of session start:int> <number of session stop:int>
