@@ -1,5 +1,5 @@
 '''
-@Author Piernadrea Mirino,  Daniele Caligiore  2019-2020
+@Author Pierandrea Mirino,  Daniele Caligiore  2019-2020
 '''
 import quantities as pq
 import neo
