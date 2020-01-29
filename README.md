@@ -1,5 +1,4 @@
-# two_way_cerebellum
-Model files
+# cerebellum_pfc_TEBC_model
 
 To run the simulation, run the experiment file of each group. The software will generate activity files for all areas.
 
