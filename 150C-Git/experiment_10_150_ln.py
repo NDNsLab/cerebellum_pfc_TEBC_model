@@ -1,5 +1,5 @@
 '''
-@Author Piernadrea Mirino,  Daniele Caligiore  2019-2020
+@Author Pierandrea Mirino,  Daniele Caligiore  2019-2020
 '''
 import cerebellum_10_150_ln as mice
 import numpy as np
